@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @LuisOrg26
+- 👋 <h1>Hi, I’m @LuisOrg26</h1>
 - 👀 I’m interested in programming Database and Machine Learning
 - 🌱 I’m currently learning Python
 - 📫 How to reach me in luisjaorg26@gmail.com
